@@ -1,11 +1,11 @@
-# X-Team NN Style Guide
+# X-Team 55 Style Guide
 
 <brief description of your team's opinion or philosophy regarding Style Guides>
-
+Try to stay consistent with the Google Java style guide as best as we can.
 ## Naming conventions
 
 <brief statement describing your team's naming conventions>
-
+All variables and method names have some sort of descriptive name to them so that those who are reading the code aren't confused.
 ### Examples
 * interfaces
 * classes
@@ -20,7 +20,7 @@
 ## Commenting style for public and private members of a class or interface:
 
 <brief statement of your team's commenting style>
-
+Method and class headers and inline comments for complex blocks of code
 ### Examples
 
 * classes
