@@ -6,7 +6,7 @@
        * GitHub username 1: davidcolling
        * GitHub username 2: mdalzin
        * GitHub username 3: tpdebroux
-       * GitHub username 4:
+       * GitHub username 4: cdalldorf
        * GitHub username 5:
    * When did you complete this exercise? 
        Mon Feb 26 17:37:28 CST 2018
